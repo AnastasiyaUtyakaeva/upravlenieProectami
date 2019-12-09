@@ -1,1 +1,1 @@
-![Смотреть на Спицына](/desktop/UP/qwe.jpg)
+![Смотреть на Спицына](usr/anastasia_04/desktop/UP/qwe.jpg)
